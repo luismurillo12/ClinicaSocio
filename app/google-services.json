@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1021173754117",
+    "project_id": "clinicasocio-e9d3d",
+    "storage_bucket": "clinicasocio-e9d3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021173754117:android:f5ce2f232e74e98dd02f6c",
+        "android_client_info": {
+          "package_name": "com.example.clinicasocio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021173754117-dejkerlhc993lg0p2iqg3o6rpt150d3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3cA_vsyX9Wvx8Ko7I64mJ23GvaeGYYMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021173754117-dejkerlhc993lg0p2iqg3o6rpt150d3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
